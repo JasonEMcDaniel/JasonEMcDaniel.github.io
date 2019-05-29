@@ -1,0 +1,9 @@
+Name,Description,Latitude,Longitude,InfoURL,ImageURL
+UCSB,A great university located along the California coast!,34.416929,-119.845991,"https://en.wikipedia.org/wiki/University_of_California,
+_Santa_Barbara
+",https://www.history.ucsb.edu/wp-content/uploads/LagoonFall20141.jpg
+Cal Poly SLO,A 4 year public university in San Luis Obispo. ,35.305,-120.6625,https://en.wikipedia.org/wiki/California_Polytechnic_State_University,https://content-calpoly-edu.s3.amazonaws.com/calpolynews/1/images/Poly_entrance_20sept17.jpg
+SBCC,One of the largest California community colleges.,34.4059,-119.6973,https://en.wikipedia.org/wiki/Santa_Barbara_City_College,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SBCC_West_campus.JPG/1920px-SBCC_West_campus.JPG
+CSUCI,"A public university in Camarillo, CA.",34.1621,-119.0434,https://en.wikipedia.org/wiki/California_State_University_Channel_Islands,https://www.csuci.edu/news/releases/images/students-fall18-apps.jpg
+Westmont College,"A private university in Montecito, CA.",34.4488,-119.661,https://en.wikipedia.org/wiki/Westmont_College,https://www.westmont.edu/sites/default/files/iStock-612261794_0_0.jpg
+Ventura College,"Two year college in Ventura County, CA.",34.2773,-119.2324,https://en.wikipedia.org/wiki/Ventura_College,https://upload.wikimedia.org/wikipedia/commons/b/b1/Vc-administration_building.JPG
